@@ -34,6 +34,8 @@ public class Transcript {
         return currentcourseload;
     }
     
+    //Calculate GPA 
+    
     public CourseLoad getCurrentCourseLoad(){
         
         return currentcourseload;
