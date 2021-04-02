@@ -10,7 +10,7 @@ import java.util.ArrayList;
 
 /**
  *
- * @author pavan
+ * @author Krishna
  */
 public class Restaurant {
     private String adminUName;

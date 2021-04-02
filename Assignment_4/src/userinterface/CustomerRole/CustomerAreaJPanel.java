@@ -20,7 +20,7 @@ import userinterface.RestaurantAdminRole.ManageMenu;
 
 /**
  *
- * @author pavan
+ * @author Krishna
  */
 public class CustomerAreaJPanel extends javax.swing.JPanel {
 

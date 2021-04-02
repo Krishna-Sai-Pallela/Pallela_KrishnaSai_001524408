@@ -13,7 +13,7 @@ import javax.swing.JPanel;
 
 /**
  *
- * @author pavan
+ * @author Krishna
  */
 public class AdminRole extends Role{
 
